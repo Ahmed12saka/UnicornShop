@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zz7ppk5szn4MXJNDoZX+mKG23Wz9aopV1qOPRjfDeMADy/dBZNfmIMr6vcwdzwgYTCU+y8aNPlZ9Dk84U/CAYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\unicorn\\unicorn\\unicorn.web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
